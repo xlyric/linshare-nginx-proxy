@@ -4,9 +4,9 @@ ce dépot a pour vocation de remplacer la configuration contenant 3 nom de domai
 par un proxy Nginx avec une seul adresse IP ou URL
 
 
-linshare-user.local devient http://IP/ 
-linshare-admin.local devient http://IP/admin
-linshare-upload-request.local devient http://IP/upload
+	linshare-user.local devient http://IP/ 
+	linshare-admin.local devient http://IP/admin
+	linshare-upload-request.local devient http://IP/upload
 
 le fichier hosts du serveur est malgrés tout à surcharger avec le script maj_host.sh pour faire les correspondances locales
 
